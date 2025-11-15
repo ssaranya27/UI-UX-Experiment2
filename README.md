@@ -1,16 +1,17 @@
-Aim:
+### Aim:
 To design a basic mobile and web layout for an existing case study by applying
 Gestalt principles, UI design patterns, and interaction behaviours, along with
 creating a brand logo using Canva.
-Algorithm:
+
+### Algorithm:
 Apply Gestalt principles to enhance mobile and web layout design.
 Incorporate UI elements and design patterns into the layouts. Develop
 interaction behaviours and usability principles for the designs. Create a brand
 logo using Canva, following styling and branding guidelines and include it with
 your layouts.
-Output:
+### Output:
 CASE STUDY FOR DESIGNING A PHARMA COMPANY
-Q1. How can Gestalt principles be applied to enhance mobile and web layout
+## Q1. How can Gestalt principles be applied to enhance mobile and web layout
 design?
 Gestalt principles improve visual perception and user experience. Examples:
 • Proximity: Group related items (like menu links or product cards)
@@ -21,7 +22,7 @@ together.
 elements.
 • Figure-Ground: Ensure important content stands out from the
 background.
-Q2. How do you incorporate UI elements and design patterns into the
+## Q2. How do you incorporate UI elements and design patterns into the
 layouts?
 UI elements and patterns make the layout intuitive and consistent:
 
@@ -32,7 +33,7 @@ navigation.
 • Forms & Inputs: Well-labeled fields with proper spacing.
 • Design Patterns: Use common patterns like tabbed content, sliders, or
 modals for predictability.
-Q3. How are interaction behaviours and usability principles developed in the
+## Q3. How are interaction behaviours and usability principles developed in the
 designs?
 Interaction and usability enhance user engagement:
 • Hover & Click Effects: Indicate interactable elements.
@@ -46,7 +47,7 @@ navigation.
 Web layout:
 <img width="668" height="383" alt="image" src="https://github.com/user-attachments/assets/bfa2dd6f-b46b-4468-ba95-688b42e2abd5" />
 
-Q4. How do you create a brand logo using Canva and include it in your
+## Q4. How do you create a brand logo using Canva and include it in your
 layouts?
 1. Open Canva and choose a logo template.
 2. Select colors, fonts, and icons consistent with the brand’s identity.
@@ -55,10 +56,10 @@ layouts?
 5. Insert the logo into the layout (typically in the header or footer) to
 maintain branding consistency.
 
-Logo:
+## Logo:
 <img width="509" height="479" alt="image" src="https://github.com/user-attachments/assets/812d0ac0-de35-4f9d-9a94-f4ea089f6f49" />
 
-Result:
+## Result:
 Designing a Basic Mobile and Web Layout for an Existing Case Study is
 successfully completed
 
